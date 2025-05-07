@@ -1,1 +1,43 @@
+{
+    "tripName": "Garrett's Trip",
+    "traveler": {
+        "name": "Garrett",
+        "contact": {
+            "email": "garrettemail@email.com",
+            "phone": "13211233333"
+        }
+    },
+    "location": [
+        {
+            "city": "Tokyo",
+            "arrivalDate": "2030-09-10",
+            "departureDate": "2030-09-30",
+            "activities": [
+                {
+                    "title": "Shop",
+                    "time": "10:00 am"
+                },
+                {
+                    "title": "Eat Sushi",
+                    "time": "Always"
+                }
+            ]
+        },
+        {
+            "city": "Seoul",
+            "arrivalDate": "2030-10-01",
+            "departureDate": "2030-10-15",
+            "activities": [
+                {
+                    "title": "Explore",
+                    "time": "12:00 pm"
+                },
+                {
+                    "title": "Eat Bulgogi",
+                    "time": "7:00 pm"
+                }
+            ]
+        }
+    ]
 
+}
