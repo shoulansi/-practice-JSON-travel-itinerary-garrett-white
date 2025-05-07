@@ -7,9 +7,9 @@
             "phone": "13211233333"
         }
     },
-    "location": [
+    "destinations": [
         {
-            "city": "Tokyo",
+            "location": "Tokyo",
             "arrivalDate": "2030-09-10",
             "departureDate": "2030-09-30",
             "activities": [
@@ -24,7 +24,7 @@
             ]
         },
         {
-            "city": "Seoul",
+            "location": "Seoul",
             "arrivalDate": "2030-10-01",
             "departureDate": "2030-10-15",
             "activities": [
